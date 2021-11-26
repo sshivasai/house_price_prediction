@@ -89,7 +89,7 @@
 80.	SaleCondition: Condition of sale
 
 
-####  most null columns with more than 50 %
+#  Most null columns with more than 50 %
         * Alley
         * PoolQC
         * Fence
